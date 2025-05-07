@@ -1,2 +1,2 @@
 # youyou
-new youtube
+new youtube (my first JS code)
